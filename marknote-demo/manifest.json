@@ -1,0 +1,14 @@
+{
+  "id": "uk.marknote.demo",
+  "name": "Marknote Demo",
+  "version": "1.0.0",
+  "author": "Gregory Hulsmann",
+  "description": "Reference plugin shipped with Marknote 1.4 — demonstrates both contributes.commands and contributes.previewTransforms. Adds a 'Show timestamp' command and a transform that replaces {{date}} with today's date.",
+  "main": "main.js",
+  "homepage": "https://marknote.co.uk/plugins",
+  "contributes": [
+    "commands",
+    "previewTransforms"
+  ],
+  "minMarknoteVersion": "1.4.0"
+}
