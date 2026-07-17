@@ -22,7 +22,7 @@ This is the easiest scaffold to copy when building your own plugin:
 
 1. Copy this folder, rename it to your reverse-DNS plugin id (e.g. `com.example.my-plugin`).
 2. Edit `manifest.json` — update `id`, `name`, `author`, `description`. Leave `main`, `contributes`, and `minMarknoteVersion` as-is unless your plugin needs different capabilities.
-3. Edit `main.js` — replace the example command and transform with your own. The full `marknote.*` API surface is documented at https://marknote.co.uk/plugins/build.
+3. Edit `main.js` — replace the example command and transform with your own. The full `marknote.*` API surface is documented at https://marknote.md/plugins/build.
 
 ## Files
 
