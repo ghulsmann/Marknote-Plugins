@@ -27,7 +27,7 @@ Pull requests welcome. To add your plugin to this gallery:
 1. Fork this repo.
 2. Create a top-level folder named after your plugin's id (reverse-DNS style, e.g. `com.example.my-plugin`).
 3. Add your `manifest.json`, your entry-point JS, and a `README.md` describing what your plugin does and how to use it.
-4. Open a PR that also adds a row to the table above and a card to the plugin gallery on [marknote.co.uk/plugins](https://marknote.co.uk/plugins).
+4. Open a PR that also adds a row to the table above and a card to the plugin gallery on [marknote.md/plugins](https://marknote.md/plugins).
 
 Submissions are lightly moderated for safety. We won't merge plugins that hot-load remote code, ask for credentials, or otherwise stray from the spirit of "small, useful add-ons for a local editor".
 
